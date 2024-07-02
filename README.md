@@ -9,7 +9,7 @@
 
 > 📚My studies: I studied audiovisual production for a couple of years because of my love for cinema, but for my future I preferred to go with the safer programming, I am completely self-taught currently.
 > 
-> 📚My hobbies: I have been a lover of cinema since I was a child and of watching good stories on the small or big screen. Sometimes I like to play video games but I am not very attached to that anymore. As a child I practiced skateboarding, swimming and bicycling.
+>🤙 My hobbies: I have been a lover of cinema since I was a child and of watching good stories on the small or big screen. I like cooking, music, sometimes playing video games, sometimes I practice skateboarding, swimming, gym, volleyball and bicycling.
 
 > 🙌My goals: My current goal is get a job, improve my English, have the possibility of continuing to improve
 
