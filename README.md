@@ -1,10 +1,9 @@
 
-# Lautaro Di Salvo
+# I'm Lautaro 👍
 
 # Front End Developer
 
 
-> About Me: I am from Argentina, province of Buenos Aires living on Tandil city
 > About Me: I am from Argentina, province of Buenos Aires living on Tandil city
 
 >🤙 My hobbies: I have been a lover of cinema since I was a child and currently i love watch movies and series,also i like cooking,listen music, study and practice some tech or update of programming, learn english, sometimes playing video games, sometimes I practice skateboarding, swimming, gym, volleyball and bicycling.
