@@ -7,7 +7,7 @@
 > About Me: I am from Argentina, province of Buenos Aires living on Tandil city
 > About Me: I am from Argentina, province of Buenos Aires living on Tandil city
 
->🤙 My hobbies: I have been a lover of cinema since I was a child and of watching good stories on the small or big screen. I like cooking, music, sometimes playing video games, sometimes I practice skateboarding, swimming, gym, volleyball and bicycling.
+>🤙 My hobbies: I have been a lover of cinema since I was a child and of watching good stories on the small or big screen. I like cooking,listen music, sometimes playing video games, sometimes I practice skateboarding, swimming, gym, volleyball and bicycling.
 >
 > 📚My studies: I studied audiovisual production for a couple of years because of my love for cinema, but for my future I preferred to go with the safer programming, I am completely self-taught currently.
 
