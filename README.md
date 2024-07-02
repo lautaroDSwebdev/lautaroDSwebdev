@@ -23,7 +23,7 @@
 
 <div align="center">
     <a href="www.linkedin.com/in/ldsfrontend"></a>
-    <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/logo-javascript-blue?logo=javascript" />
 </div>
 
 
