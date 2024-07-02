@@ -14,6 +14,7 @@
 > 🙌My goals: My current goal is get a job, improve my English, have the possibility of continuing to improve
 
 > 💻Technologies that I use (or am putting into practice)
+
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,typescript,react,figma,vite,premiere,npm,yarn,notion,powershell,bash,scss,vscode,git,netlify,linkedin,firebase,discord,codepen)](https://skillicons.dev)
 
 ## Technologies that I am studying or that I would like to put into practice more (2024)
