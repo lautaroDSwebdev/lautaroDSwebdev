@@ -5,10 +5,12 @@
 
 
 > About Me: I am from Argentina, province of Buenos Aires living on Tandil city
+> About Me: I am from Argentina, province of Buenos Aires living on Tandil city
 
 > 📚My studies: I studied audiovisual production for a couple of years because of my love for cinema, but for my future I preferred to go with the safer programming, I am completely self-taught currently.
+> 📚My hobbies: I have been a lover of cinema since I was a child and of watching good stories on the small or big screen. Sometimes I like to play video games but I am not very attached to that anymore. As a child I practiced skateboarding, swimming and bicycling.
 
-> 📚My goals: My current goal is get a job and become in some close future a fullstack developer
+> 🙌My goals: My current goal is get a job, improve my English, have the possibility of continuing to improve
 
 > 💻Technologies that I use (or am putting into practice)
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,typescript,react,figma,vite,premiere,npm,yarn,notion,powershell,bash,scss,vscode,git,netlify,linkedin,firebase,discord,codepen)](https://skillicons.dev)
