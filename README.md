@@ -4,7 +4,7 @@
 # Front End Developer
 
 
-> About Me: I am from Argentina, province of Buenos Aires
+> About Me: I am from Argentina, province of Buenos Aires living on Tandil city
 
 > 📚My studies: I studied audiovisual production for a couple of years because of my love for cinema, but for my future I preferred to go with the safer programming, I am completely self-taught currently.
 
