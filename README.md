@@ -9,7 +9,7 @@
 > 📚My studies: I studied audiovisual production for a couple of years because of my love for cinema, but for my future I preferred to go with the safer programming, I am completely self-taught currently.
 
 > 📚My studies: My current goal is get a job and become in some close future a fullstack developer
-
+> 💻Technologies that I use (or am putting into practice)
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,typescript,react,figma,vite,premiere,npm,yarn,notion,powershell,bash,scss,vscode,git,netlify,linkedin,firebase,discord,codepen)](https://skillicons.dev)
 
 ## Technologies that I am studying or that I would like to put into practice more (2024)
