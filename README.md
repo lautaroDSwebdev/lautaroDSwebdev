@@ -10,7 +10,7 @@
 >
 > 📚My studies: I studied audiovisual production for a couple of years because of my love for cinema, but for my future I preferred to go with the safer programming, I am completely self-taught currently.
 
-> 🙌My goals: My current goal is get a job, improve my English, have the possibility of continuing to improve
+> 🙌My goals: My current goal is get a job, improve my English, have the possibility of continuing improve as a developer and work with more people
 
 > 💻Technologies that I use (or am putting into practice)
 
