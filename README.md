@@ -14,10 +14,10 @@
 
 > 💻Technologies that I use (or am putting into practice)
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,typescript,react,figma,vite,premiere,npm,yarn,notion,powershell,bash,scss,vscode,git,netlify,linkedin,firebase,discord,codepen)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,typescript,react,astro,figma,vite,premiere,npm,yarn,notion,powershell,bash,scss,vscode,git,netlify,linkedin,firebase,discord,codepen)](https://skillicons.dev)
 
 ## Technologies that I am studying or that I would like to put into practice more (2024)
-[![My Skills](https://skillicons.dev/icons?i=java,mysql,redux,astro)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,mysql,redux)](https://skillicons.dev)
 
 
 
