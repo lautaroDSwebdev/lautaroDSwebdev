@@ -16,8 +16,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,typescript,react,astro,next,figma,vite,java,spring,mysql,redux,npm,yarn,notion,powershell,bash,scss,vscode,git,netlify,linkedin,firebase,discord,codepen)](https://skillicons.dev)
 
-## Technologies that I am studying (2025)
-[![My Skills](https://skillicons.dev/icons?i=graphql,docker,angular)](https://skillicons.dev)
 
 
 
