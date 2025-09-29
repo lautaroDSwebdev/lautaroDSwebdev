@@ -1,7 +1,7 @@
 
 # I'm Lautaro 👍
 
-# Front End Developer
+# Fullstack Developer
 
 
 > About Me: I am from Argentina, province of Buenos Aires living on Tandil city
